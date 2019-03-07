@@ -1,0 +1,5 @@
+rootProject.name = 'accesastart2k18'
+
+include ':app'
+
+

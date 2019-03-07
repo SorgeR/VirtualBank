@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 3073924,
+    "Username": "gabriela.matei",
+    "Name": "Gabriela Matei",
+    "Email": "gabriela.matei@accesa.eu",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/b1a59dc13559f87295bf7c0aaf91669f?s=80&d=identicon",
+    "PrivateToken": "a382ebe739747656298127eab42cdc736e5c67926158a001db5ffe6151802cd0",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

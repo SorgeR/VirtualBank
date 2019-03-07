@@ -1,0 +1,131 @@
+import { StyleSheet } from 'react-native';
+var transferStyles = StyleSheet.create({
+    mainContainer: {
+        flex: 1,
+        flexDirection: 'column',
+        width: '100%',
+    },
+    topContainer: {
+        flexDirection: 'row',
+        height: 60,
+        marginTop: 20,
+        justifyContent: 'center',
+    },
+    arrowImageView: {
+        width: 50,
+        height: 50,
+        flex: 1,
+        justifyContent: 'center'
+    },
+    card: {
+        flex: 1,
+        alignContent: 'center',
+        borderWidth: 1,
+        borderColor: '#ddd',
+        borderBottomWidth: 0,
+        shadowColor: '#000',
+        shadowOffset: { width: 1, height: 3 },
+        shadowOpacity: 1,
+        shadowRadius: 10,
+        elevation: 1,
+        marginLeft: 5,
+        marginRight: 5,
+        marginTop: 10,
+        backgroundColor: 'white',
+        justifyContent: 'center',
+    },
+    cardError: {
+        flex: 1,
+        justifyContent: 'center',
+        borderWidth: 1,
+        borderColor: '#ddd',
+        borderBottomWidth: 0,
+        shadowColor: '#000',
+        shadowOffset: { width: 1, height: 3 },
+        shadowOpacity: 1,
+        shadowRadius: 10,
+        elevation: 1,
+        marginLeft: 5,
+        marginRight: 5,
+        marginTop: 10,
+        backgroundColor: 'red',
+    },
+    topLeftText: {
+        fontSize: 20,
+        marginLeft: 20,
+        textAlign: 'left',
+    },
+    topRightText: {
+        fontSize: 20,
+        marginRight: 20,
+        textAlign: 'right',
+    },
+    leftInputTextBox: {
+        width: 140,
+        height: 50,
+        opacity: 1,
+        paddingLeft: 10,
+        color: 'black',
+        marginLeft: 20,
+        fontSize: 20,
+    },
+    rightInputTextBox: {
+        width: 130,
+        height: 90,
+        opacity: 1,
+        paddingLeft: 10,
+        color: 'black',
+        marginRight: 20,
+        marginLeft: 20,
+        fontSize: 20,
+    },
+    textForFromAndTo: {
+        marginTop: 6,
+        marginLeft: 10,
+        fontSize: 13
+    },
+    middleTextBox: {
+        fontSize: 25,
+        width: 300,
+        height: 50,
+        alignSelf: 'center',
+        paddingLeft: 80,
+    },
+    middleTextBoxError: {
+        backgroundColor: 'red',
+        fontSize: 20,
+        width: 200,
+        height: 50,
+        alignSelf: 'center',
+    },
+    phoneInputContainer: {
+        flexDirection: 'row',
+        height: 100,
+    },
+    sumInputContainer: {
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignContent: 'center',
+    },
+    transferButtonView: {
+        width: '70%',
+        height: 50,
+        marginTop: 20,
+    },
+    roundImageView: {
+        flex: 1,
+        height: 150,
+        width: 150,
+        borderRadius: 3000,
+        alignSelf: 'center',
+    },
+    topImageContainer: {
+        flex: 1,
+        flexDirection: 'row',
+        height: 100,
+        marginTop: 30,
+        marginBottom: 20,
+    }
+});
+export default transferStyles;
+//# sourceMappingURL=transfer.component.styles.js.map

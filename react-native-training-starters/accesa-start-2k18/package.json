@@ -1,0 +1,70 @@
+{
+  "name": "accesa-start-2k18",
+  "version": "0.1.0",
+  "private": true,
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "@types/react": "^16.4.18",
+    "@types/react-native": "^0.55.28",
+    "@types/react-native-popup-dialog": "^0.16.0",
+    "@types/react-native-svg-charts": "^5.0.1",
+    "@types/react-navigation": "^2.13.0",
+    "@types/react-test-renderer": "^16.0.1",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest": "^23.6.0",
+    "jest-react-native": "^18.0.0",
+    "react-native-scripts-ts": "1.15.0",
+    "react-native-typescript-transformer": "^1.2.3",
+    "react-test-renderer": "16.3.1",
+    "ts-jest": "^22.4.6",
+    "tslib": "^1.9.1",
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "jest": {
+    "globals": {
+      "ts-jest": {
+        "useBabelrc": true
+      }
+    },
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ],
+    "preset": "react-native",
+    "testMatch": [
+      "**/__tests__/**/*.[tj]s?(x)",
+      "**/?(*.)(spec|test).[tj]s?(x)"
+    ],
+    "transform": {
+      "^.+\\.tsx?$": "ts-jest"
+    }
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "native-base": "^2.8.1",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "react-native-elements": "^1.0.0-beta7",
+    "react-native-number-spinner": "^1.1.3",
+    "react-native-popup-dialog": "^0.16.4",
+    "react-native-pure-chart": "0.0.24",
+    "react-native-simple-dialogs": "^1.0.0",
+    "react-native-svg-charts": "^5.2.0",
+    "react-navigation": "^2.18.2"
+  }
+}

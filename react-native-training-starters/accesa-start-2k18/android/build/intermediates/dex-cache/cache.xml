@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_f79779b25feead57ef7a496edaa0a78add16be98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_7fbacc2d47e6af5402785857d314f06aa676acc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c0cc91aaef17cbd7c955c178fc6563526f22965f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f321eb222c825a9d93aed7a3bf61834aba8797fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_dbd2267903d5845b62626767127d322efb5e4334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_672d71bf6589aaab0fd211337270626301eabce9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_0009eb9282fedd96c2ca70044dbbd30f3033a491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_c964b767e7d8b003be69ee77696d1fc82d334ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base-support\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ff84ecfe1dd78b98be147daaa042bc32219793b8">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-support-1.3.0_5c788fad44fb6a8edc2fb14c50795c75d3d0b6bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_3a8e18241ee64311639c77bd5f0a5b9a4e31f4df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_c38adeae7f14ca8d6502bd08e5bb57f5e1864a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-gif-1.3.0_7012c7097430693e2276e5ee40d14aff9b4dc0b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_691e6c855e20d4d37ee0b13cc06818eab2ea5f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_84c9f7222ef6edfff776af70a12fd6f8005c14d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_deaf91dacacd3155e46354cb077763d4d3efb292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_66819bfc335369a405952bb4a5a5a5727fa2665f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_742793dab404148522e90af277dca5d6b808c227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_af165c3e6072047adcb49889f1d52fc6d836502f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-1.3.0_a5fab054a25b881c1064fac22e32aefbeb59bd91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_68682d4d500becda59fc643e6786722053394dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_d7ce495184e674728823741f0403ba8f964c9552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_271d57e1951b963ca81538905dab83c104eff615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_1e7ab962ffe68e2d0104a261e8aaf989aa7ce51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_ca0a76c315ec654c3a55a80cf13c1460f8c203e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\stefa\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\AccesaFinalProject\react-native-training-starters\accesa-start-2k18\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_a1b46ddf7f6e621419b60d1d08454d5f158e713c.jar" />
+    </item>
+
+</items>

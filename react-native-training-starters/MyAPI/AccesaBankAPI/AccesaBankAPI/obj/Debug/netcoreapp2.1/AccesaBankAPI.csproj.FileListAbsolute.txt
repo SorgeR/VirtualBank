@@ -1,0 +1,14 @@
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\bin\Debug\netcoreapp2.1\AccesaBankAPI.deps.json
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\bin\Debug\netcoreapp2.1\AccesaBankAPI.runtimeconfig.json
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\bin\Debug\netcoreapp2.1\AccesaBankAPI.runtimeconfig.dev.json
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\bin\Debug\netcoreapp2.1\AccesaBankAPI.dll
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\bin\Debug\netcoreapp2.1\AccesaBankAPI.pdb
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.csprojAssemblyReference.cache
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.csproj.CoreCompileInputs.cache
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.RazorAssemblyInfo.cache
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.RazorAssemblyInfo.cs
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.AssemblyInfoInputs.cache
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.AssemblyInfo.cs
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.RazorTargetAssemblyInfo.cache
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.dll
+C:\AccesaFinalProject\react-native-training-starters\MyAPI\AccesaBankAPI\AccesaBankAPI\obj\Debug\netcoreapp2.1\AccesaBankAPI.pdb
